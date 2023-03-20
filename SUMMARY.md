@@ -10,6 +10,7 @@
 * [ZKPay Governance](zkpay-governance/README.md)
   * [ZKPay DAO](zkpay-governance/zkpay-dao.md)
   * [Protocol Governance](zkpay-governance/protocol-governance.md)
+  * [Tokenomics](zkpay-governance/tokenomics.md)
 * [Fees](fees.md)
 * [UI Overview](ui-overview/README.md)
   * [Create Account](ui-overview/create-account.md)
@@ -25,3 +26,4 @@
 * [Github](https://github.com/zk-pay)
 * [Discord](https://discord.gg/zkpay)
 * [Twitter](https://twitter.com/ZK\_Pay)
+* [Roadmap](roadmap.md)
