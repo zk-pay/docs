@@ -10,7 +10,7 @@ _\*ZKPay introduces_ _deposit and withdrawal limits_ _and other_ _compliance fea
 
 ## Project Landing Pages
 
-* ZKPay application: [https://](https://zkpay.finance)zkpay.finance
+* ZKPay application: [https://](https://zkpay.finance)[zkpay.finance](https://zkpay.finance)
 
 
 
