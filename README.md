@@ -12,6 +12,7 @@
 * [ZKPay Governance](zkpay-governance/)
   * [ZKPay DAO](zkpay-governance/zkpay-dao.md)
   * [Protocol Governance](zkpay-governance/protocol-governance.md)
+  * [Tokenomics](zkpay-governance/tokenomics.md)
 * ZKPay FAQ
 
 ## &#x20;ZKPay Application <a href="#zkbob-app" id="zkbob-app"></a>
