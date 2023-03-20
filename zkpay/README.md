@@ -1,12 +1,5 @@
 # ZKPay
 
-## Get Started
-
-> :man: ZKPay[ App](https://zkpay.finance)\
-> :man\_swimming: Info and Instructions\
-> :person\_running:Technical Details and Contracts\
-> 🔐 Security Audit
-
 ## About
 
 &#x20;ZKPay is a community ran fork of the Aztec Network deployed on Polygon and designed for everyday users and common use cases. ZKPay uses zkSNARKS to anonymize senders, receivers, and amounts when transferring assets inside the network. Compliance features deter bad actors and illicit usage, giving privacy and safety back to ordinary blockchain users.
