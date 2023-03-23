@@ -1,6 +1,6 @@
 # ZKPay Governance
 
-ZKPay inventory and protocol updates are handled via a governance multi-sig SAFE. This process will be transitioned to a larger ZKPay DAO following the beta implementation.
+ZKPay Network updates are handled via a governance multi-sig SAFE. This process will be transitioned to a larger ZKPay DAO following the beta implementation.
 
 ### [Protocol Governance](protocol-governance.md)
 
