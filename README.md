@@ -7,12 +7,6 @@
 * [Use Cases](zkpay/use-cases.md)
 * [Fees](fees.md)
 * [Deposit & Withdrawal Limits](zkpay/deposit-and-withdrawal-limits.md)
-* [Compliance & Security](zkpay/compliance-and-security/)
-  * [TRM Labs Integration](zkpay/compliance-and-security/trm-labs-integration.md)
-* [ZKPay Governance](zkpay-governance/)
-  * [ZKPay DAO](zkpay-governance/zkpay-dao.md)
-  * [Protocol Governance](zkpay-governance/protocol-governance.md)
-  * [Tokenomics](zkpay-governance/tokenomics.md)
 * ZKPay FAQ
 
 ## &#x20;ZKPay Application <a href="#zkbob-app" id="zkbob-app"></a>
@@ -32,7 +26,7 @@
 
 ## &#x20;Roadmap
 
-* [On the Roadmap](zkpay-governance/roadmap.md)
+* [On the Roadmap](broken-reference)
 
 
 
