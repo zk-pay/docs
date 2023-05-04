@@ -12,7 +12,6 @@
 ## &#x20;ZKPay Application <a href="#zkbob-app" id="zkbob-app"></a>
 
 * [UI Overview](ui-overview/)
-* Acknowledge Terms
 * [Create Account](ui-overview/create-account.md)
 * [Transaction History](ui-overview/transaction-history.md)
 * [Deposits](ui-overview/deposit.md)
@@ -24,11 +23,7 @@
 * [Mint](ui-overview/mint.md)
 * [My NFTS](ui-overview/my-nfts.md)
 
-## &#x20;Roadmap
+## Links
 
-* [On the Roadmap](broken-reference)
-
-
-
-* [Github](https://github.com/zk-pay)
 * [Link tree](https://link3.to/zkpay)
+* [Github](https://github.com/zk-pay)
