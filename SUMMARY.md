@@ -7,7 +7,7 @@
   * [Use Cases](zkpay/use-cases.md)
   * [Compliance & Security](zkpay/compliance-and-security/README.md)
     * [TRM Labs Integration](zkpay/compliance-and-security/trm-labs-integration.md)
-* [Fees](fees.md)
+* [ZKPay Fees](zkpay-fees.md)
 * [UI Overview](ui-overview/README.md)
   * [Create Account](ui-overview/create-account.md)
   * [Transaction History](ui-overview/transaction-history.md)

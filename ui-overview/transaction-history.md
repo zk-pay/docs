@@ -1,6 +1,6 @@
 # Transaction History
 
-View transactions performed on the ZKPay network.
+View transactions performed on the PolyAztec network.
 
 * [Deposits](deposit.md)
 * [Sends](send.md)
@@ -8,6 +8,6 @@ View transactions performed on the ZKPay network.
 
 View transactions interacting with ZKPay's LP Pool.
 
-* [Swaps](swaps.md)
+* [L2 Swaps](swaps.md)
 * [Withdrawal Swaps](withdrawal/withdrawal-swaps.md)
-* Withdrawals to Ethereum (coming soon)
+

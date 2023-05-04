@@ -5,7 +5,7 @@
 * [ZKPay](zkpay/)
 * [Basic Concepts](zkpay/basic-concepts.md)
 * [Use Cases](zkpay/use-cases.md)
-* [Fees](fees.md)
+* [Fees](zkpay-fees.md)
 * [Deposit & Withdrawal Limits](zkpay/deposit-and-withdrawal-limits.md)
 * ZKPay FAQ
 
