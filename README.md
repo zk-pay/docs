@@ -20,7 +20,7 @@
   * [Withdrawal Swaps](ui-overview/withdrawal/withdrawal-swaps.md)
 * [Swaps](ui-overview/swaps.md)
 * [Quest](ui-overview/quest.md)
-* [Mint](ui-overview/mint.md)
+* [Mint](ui-overview/mint-zksupercoder.md)
 * [My NFTS](ui-overview/my-nfts.md)
 
 ## Links

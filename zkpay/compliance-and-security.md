@@ -8,21 +8,11 @@ Politically exposed individuals or associates of those individuals are not permi
 
 ## Daily limits
 
-Limits are imposed to prevent large-scale transactions which may be the result of illicit activity. [Deposit limits are detailed here](../deposit-and-withdrawal-limits.md).
+Limits are imposed to prevent large-scale transactions which may be the result of illicit activity. [Deposit limits are detailed here](deposit-and-withdrawal-limits.md).
 
 ## Geo Restrictions
 
 The ZKPay application is in Beta with minimal restrictions enabled. Users must abide by local, state and federal laws. **Please check prior to usage**. &#x20;
-
-Post-beta, restrictions may be enabled for additional countries based on legal considerations.
-
-## Wallet Compliance
-
-An integration with TRM and potential future integrations with VAF Compliance and PureFi ensure 0x wallets interacting with the protocol do not contain funds obtained from illicit sources. Suspicious wallets cannot deposit into the protocol, and funds cannot be withdrawn to suspicious wallets.&#x20;
-
-## Security
-
-
 
 ### Bug Bounty
 

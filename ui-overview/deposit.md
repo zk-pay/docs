@@ -8,5 +8,5 @@ Supported tokens:
 
 
 
-**Deposits must wait for the PolyAztec block to settle for the users balance to reflect to deposit.**
+**Deposits must wait for the Nata Network block to settle (\~6 hours) for the users balance to reflect the deposit.**
 

@@ -4,7 +4,7 @@
 \
 Complete **Quest** (website) ---> Get **Questooor Sismo badge** (Sismo) ---> Link Guild (Discord) ---> Get **Questooor role** (Discord) \
 \
-**To become eligible for the badge:** - Complete the Quest on our site [https://zkpay.finance/quest](https://zkpay.finance/quest) _See ╚🙌user-created-content or pinned messages in ╠🎮quest-help for a guide to complete the Quest._ - Search for your ETH address in this list to make sure it was added to the list. [https://zkpay.finance/api/v1/sismo/quest/user-list](https://zkpay.finance/api/v1/sismo/quest/user-list) - Wait 24 hours for the Sismo eligibility list to update. \
+**To become eligible for the badge:** - Complete the Quest on our site [https://zkpay.finance/quest](https://zkpay.finance/quest) _See ╚🙌user-created-content or pinned messages in ╠🎮quest-help for a guide to complete the Quest._ - Search for your ETH address in this list to make sure it was added to the list. [https://zkpay.finance/api/v2/sismo/quest/user-list](https://zkpay.finance/api/v2/sismo/quest/user-list) - Wait 24 hours for the Sismo eligibility list to update. \
 \
 **To verify your address is eligible:** - Go to [https://app.sismo.io/zkpay-quest](https://app.sismo.io/zkpay-quest) - Click on the badge to see more information. - Click "eligible accounts" to see addresses that can claim the badge, or here is the link [https://sismo-prod-hub-data.s3.eu-west-1.amazonaws.com/group-snapshot-store/0xb7820343e1799c26e526ead8747a9745/1678629409.json](https://sismo-prod-hub-data.s3.eu-west-1.amazonaws.com/group-snapshot-store/0xb7820343e1799c26e526ead8747a9745/1678629409.json) - Ctrl+f and paste your address to verify it is in the list. _If your address shows up it means that address is eligible._\
 \

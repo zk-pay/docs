@@ -1,6 +1,6 @@
 # Transaction History
 
-View transactions performed on the PolyAztec network.
+View transactions performed on the Nata Network.
 
 * [Deposits](deposit.md)
 * [Sends](send.md)
