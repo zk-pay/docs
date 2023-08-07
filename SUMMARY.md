@@ -19,5 +19,5 @@
   * [Mint zkSuperCoder](ui-overview/mint-zksupercoder.md)
   * [My NFTS](ui-overview/my-nfts.md)
 * [Github](https://github.com/zk-pay)
-* [Discord](https://discord.gg/zkpay)
+* [Discord](https://discord.gg/C96BBnQU8A)
 * [Twitter](https://twitter.com/ZK\_Pay)
